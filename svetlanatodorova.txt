@@ -1,0 +1,4 @@
+1. My name is Svetlana.
+2. I am from Yambol.
+3. My hobby is photography.
+4. I picked SoftUni because I want to become a good programmer.
