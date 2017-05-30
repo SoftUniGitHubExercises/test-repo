@@ -1,4 +1,5 @@
 1. name = Svetlana
 2. name = Kremena
-3. name=Dea
+3. name = Dea
+4. name = Daniel
 
