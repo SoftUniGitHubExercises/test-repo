@@ -1,2 +1,4 @@
 1. name = Svetlana
-2. size = 100
+2. name = Kremena
+3. name=Dea
+
